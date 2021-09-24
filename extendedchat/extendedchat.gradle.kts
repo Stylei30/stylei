@@ -2,7 +2,7 @@ version = "1.0.0"
 
 project.extra["PluginName"] = "Chat Extended"
 project.extra["PluginDescription"] = "Chat filtering, Ctrl+V pasting, and retype previous message"
-project.extra["ProjectSupportUrl"] = "https://github.com/Sundar-Gandu/Pajeet-Plugins"
+project.extra["ProjectSupportUrl"] = "https://github.com/Stylei30/stylei.git"
 
 tasks {
     jar {
